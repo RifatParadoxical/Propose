@@ -1,0 +1,68 @@
+:root{
+    /* backgorund er jonno */
+    --first-color: #F8BBD0;
+    --second-color:  #FFC0CB;
+    --third-color: #FADADD;
+    /* highlighting er jonno */
+    --fourth-color: #FF0000;
+    --fifth-color: #E63946;
+    --sixth-color: #C21807;
+    /* headers er jonno */
+    --seventh-color: #C5A3FF;
+    --eigth-color: #B39DDB;
+    --ninth-color: #8E44AD;
+    /* subtitle er jonno */
+    --tenth-color: #FFD700;
+    --eleventh-color: #F4C430;
+    --twelveth-color: #F5E6CC;
+    /* button er jonno */
+    --thirteenth-color: #D5A6BD;
+    --fouthteenth-color: #BA9CA3;
+    --fifthteenth-color: #987284;
+}
+
+/* Additional CSS */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+.lexend-all {
+  font-family: "Lexend";
+  font-size: 5vw;
+  font-weight: 300;
+}
+.oswald {
+    font-family: "Oswald";
+    font-size: 5vw;
+    font-weight: 400;
+}
+.mouse{
+    transition: linear(0 0%, 0.65 38.24%, 1 100%);
+    transition-duration: 1s;
+    z-index: 99;
+}
+button {
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: none;
+    background-color: var(--thirteenth-color);
+    color: var(--ninth-color);
+}
+h1{
+    color: var(--fourth-color);
+}
+#main{
+    height: 100dvh;
+    width: 100vw;
+    background-color: var(--third-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
