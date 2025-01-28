@@ -56,7 +56,10 @@ button {
     color: var(--ninth-color);
 }
 h1{
-    color: var(--fourth-color);
+    color: var(--eigth-color);
+    font-size: 3vw;
+    font-weight: 600;
+    text-align: center;
 }
 #main{
     height: 100dvh;
