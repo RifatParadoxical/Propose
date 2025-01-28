@@ -5,7 +5,7 @@ const array = [
     `The softness of your skin👧🏻,`,
     `Your lips, soft as velvet, whisper dreams I long to chase👄`,
     `Your eyes👀, dark and enchanting, are endless pools of desire`,
-    `And your midnight-black, it's a masterpiece of beauty. 💕`,
+    `And your midnight-black hairs, it's a masterpiece of beauty. 💕`,
     `I have longed for you, my love, for so long🥺`,
     `I wanna hold your arms and make you mine forever🥰`,
     `I want to feel your breath on my skin, your heartbeat against mine🥰`,
